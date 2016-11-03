@@ -1,4 +1,4 @@
-Current version : 18.3.1, for Terraria 1.3.0.7 on Windows and Linux.
+Current version : 18.5.0, for Terraria 1.3.3.1 on Windows and Linux.
 
 On the Terraria Forums:
 [Link](http://forums.terraria.org/index.php?threads/omnitool-world-creation-mapping-backups-and-more.14664/)
@@ -80,17 +80,17 @@ Depending on your Python installation, you may need to run one of these instead:
 
 For some of the modules, additional packages are required for download.
 
-That is subversion for PGU and mercurial for Pygame.
+That is git for PGU and mercurial for Pygame.
 In Ubuntu this can be satisfied with:
 * `sudo apt-get install mercurial`
-* `sudo apt-get install subversion`
+* `sudo apt-get install git`
 
 Credits for Omnitool
 ====================
 * 7UR7L3: testing and ideas
 * Ijwu: translation overseer, testing, ideas & skins (Oasis, Underworld, Overworld)
 * Berserker66: programming, testing, bundling, setup, ....
-* Translation credits in translation thread: [Link](http://www.terrariaonline.com/threads/omnitool-language-thread.62981/)
+* Translation credits in translation readme: [Link](https://github.com/Berserker66/omnitool/blob/master/translation.md)
 
 Other
 =====
